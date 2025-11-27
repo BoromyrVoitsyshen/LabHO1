@@ -1,0 +1,6 @@
+=== BENCHMARK REPORT ===
+Nodes (N): 1000
+Workers (K): 2
+Execution Time: 20.9983 seconds
+Shortest path to last node: 6
+========================
